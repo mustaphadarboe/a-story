@@ -1,0 +1,50 @@
+body{
+    font-size: medium;
+    background-color: white;
+}
+.wraper{
+    margin: auto;
+    max-width: 60%;
+    background-color:white;
+    
+}
+
+.span{
+    font-size: 75px;
+}
+
+hr{
+    color: blue;
+}
+
+.select{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+img{
+    width: 646pt;
+    
+    margin-left: -7em;
+}
+
+figure{
+    margin-left: -7em;
+}
+.independent{
+    font-size: 23px;
+}
+
+.size{
+    font-size: 27px;
+    font-weight:bold;
+}
+
+.horizontal-line hr{
+    color: gray;
+}
+
+.quote{
+    border-left: 3px solid gray;
+    padding: 3em;
+}
